@@ -3,3 +3,7 @@
 ```
 System.out.println("Yo waddup");
 ```
+- [X] Add a header
+- [X] Add an image
+- [X] Add a code example
+- [ ] Complete HW6
